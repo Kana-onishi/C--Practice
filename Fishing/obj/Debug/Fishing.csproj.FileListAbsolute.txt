@@ -1,0 +1,11 @@
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.csproj.SuggestedBindingRedirects.cache
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.FormGame.resources
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\129008\source\repos\課題\Fishing\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\129008\source\repos\課題\Fishing\Fishing\bin\Debug\Fishing.exe
+C:\Users\129008\source\repos\課題\Fishing\Fishing\bin\Debug\Fishing.pdb
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.exe
+C:\Users\129008\source\repos\課題\Fishing\Fishing\obj\Debug\Fishing.pdb
