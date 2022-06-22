@@ -47,8 +47,8 @@ namespace Fishing
                         score = key;
 
                         //魚が左端に戻るor見えなくなる
-                        //picture.Visible = false;
-                        X = 0 - picture.Width;//左端に戻る
+                        picture.Visible = false;
+                        //X = 0 - picture.Width;//左端に戻る
                     }
                 }
             }
