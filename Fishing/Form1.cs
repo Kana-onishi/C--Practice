@@ -21,9 +21,9 @@ namespace Fishing
         private int daytime = DayTime;      //昼間の時間
         private int night = NightTime;      //夜の時間
         private int score = 0;              //得点
-        private const int IwashiSpeed = 20; //イワシのスピード
-        private const int UtsuboSpeed = 10; //ウツボのスピード
-        private const int AnkouSpeed = 10;   //アンコウのスピード
+        private const int IwashiSpeed = 35; //イワシのスピード
+        private const int UtsuboSpeed = 30; //ウツボのスピード
+        private const int AnkouSpeed = 25;   //アンコウのスピード
         private const int DayTime = 100;    //昼間の時間(10秒)
         private const int NightTime = 50;   //夜の時間(5秒)
         public FormGame()
